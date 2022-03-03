@@ -1,3 +1,7 @@
 // Copyright 2022 UNN-IASR
-#pragma once
-int64_t power(int64_t, uint16_t);
+#ifndef INCLUDE_FUN_H_
+#define INCLUDE_FUN_H_
+#include <cstdint>
+int64_t power(int64_t x, uint16_t n);
+
+#endif  // INCLUDE_FUN_H_
