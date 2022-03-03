@@ -3,5 +3,5 @@
 
 int main() 
 {
-    return power(7, 2);
+    return 0;
 }
