@@ -2,7 +2,6 @@
 #include "fun.h"
 
 int main() {
-    int x, n;
-    x = 7; n = 2;
+    int x = 7, n = 2;
     return power(x, n);
 }
